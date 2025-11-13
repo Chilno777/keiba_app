@@ -36,5 +36,5 @@ keiba_app/
 │   ├── race_data.csv     # 近走データ
 │   └── marks.csv         # 印の保存ファイル
 │
-└── README.md
+└── fetch.py  #ネット競馬からデータを自動取得を実装しようとするも中断中
 
